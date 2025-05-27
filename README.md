@@ -12,3 +12,7 @@ A Python tool to generate secure random passwords.
 Run the script:
 ```bash
 python project1.py
+## Author
+
+- **Sneha Sadhukhan**  
+  [GitHub](https://github.com/SnehaSadhukhan) | [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
